@@ -76,5 +76,5 @@ app.listen(3000)
 //app.delete('/usuarios')
 
 
-//senha DB BSrzeJHjEYuc3DzN
-//usuário DB lucaseduardocn12
+//senha DB ***
+//usuário DB ***
